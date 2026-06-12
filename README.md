@@ -27,12 +27,12 @@ Tools & Technologies
 
 ---
 
-## 📂 Project Structure
+Project Structure
 
-* `datasets/` → Raw CSV datasets
-* `Sql/` → SQL scripts for analysis
-* `powerbi/` → Power BI dashboard file
-* `Screenshots/` → Dashboard images & visual outputs
+* datasets → Raw CSV datasets
+* Sql → SQL scripts for analysis
+* powerbi → Power BI dashboard file
+* Screenshots → Dashboard images & visual outputs
 
 ---
 
